@@ -1,0 +1,5 @@
+TOKEN = "TOKEN"
+ADTEXT = "TEXT"
+CHAT_ID = None
+ADMINS = [None, None]
+DELAY = 3600
